@@ -130,7 +130,8 @@ env/
 venv/
 ENV/
 env.bak/
-venv.bak/
+streamlit_venv/
+*venv*/
 
 # Spyder project settings
 .spyderproject
